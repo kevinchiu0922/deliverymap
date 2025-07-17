@@ -1,1 +1,5 @@
 * @streamlit/community-cloud
+git add .
+git commit -m "Add app.py and requirements for deployment"
+git push origin main
+
